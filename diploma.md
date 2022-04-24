@@ -1,4 +1,3 @@
-Gropper1488
 ## Содержание
 1.	[Детализация и чёткое прописывание бизнес-целей](contents/buisness_goals.md)
 2.	[Анализ и список функциональных требований](contents/functional_requirenments.md)
